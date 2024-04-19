@@ -1,1 +1,39 @@
 /*  your css code here. If applicable */
+body{
+	justify-content:centre;
+}
+#card{
+	width:200px;
+	/* heigth:700px; */
+	padding:30px;
+	box-size:border-box;
+	background-color:lightseagreen;
+	box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, 0.5), -5px 5px 5px 0px rgba(0, 0, 0, 0.5);
+	margin:auto;
+	font-weight:500;
+}
+img{
+	width:200px;
+	height:200px;
+	display: block;
+}
+#image{
+	margin:auto;
+}
+#head{
+	text-align:center;
+}
+#para{
+	text-align:center;
+}
+#btn{
+	height:40px;
+	text-align:center;
+	display:block;
+	margin:auto;
+	background-color:lightcoral;
+	border:none;
+	color:blue;
+	border-radius:10px;
+	font-size: 20px;
+}
